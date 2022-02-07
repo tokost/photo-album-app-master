@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3a1f526-08e1-4843-a704-27a7d3e92018" name="Changes" comment="prisposobene mojmu prostrediu" />
+    <list default="true" id="f3a1f526-08e1-4843-a704-27a7d3e92018" name="Changes" comment="prisposobene mojmu prostrediu">
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644266210828</updated>
-      <workItem from="1644266216715" duration="2265000" />
+      <workItem from="1644266216715" duration="2749000" />
     </task>
     <task id="LOCAL-00001" summary="prisposobene mojmu prostrediu">
       <created>1644268469422</created>
@@ -79,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644268469422</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="prisposobene mojmu prostrediu">
+      <created>1644268519401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644268519401</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
